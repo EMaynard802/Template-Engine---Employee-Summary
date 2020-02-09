@@ -7,4 +7,5 @@ To run the app, the user needs to install the relevant dependency ("npm install 
  ![](./output/output-example-screenshot.png)
 
 
- <a href="https://imgflip.com/gif/3oo63f"><img src="https://i.imgflip.com/3oo63f.gif" title="Live Demo"/></a>
+[Live Demo]
+<a href="https://imgflip.com/gif/3oo7jc"><img src="https://i.imgflip.com/3oo7jc.gif" title="Live Demo"/></a>
