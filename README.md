@@ -7,9 +7,4 @@ To run the app, the user needs to install the relevant dependency ("npm install 
  ![](./output/output-example-screenshot.png)
 
 
- //my ReadMe code with video and image 
-#Live Demo
-<a href="https://drive.google.com/file/d/1Hj0kqwR5i5mpyZj_6GHzEnkRUnNmHJFw/preview" width="640" height="480" target="_blank"><img src="./output/output-example-screenshot.png" 
-alt="demo link to screencastify" width="300" height="200"/></a>
-
  
