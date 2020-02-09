@@ -6,6 +6,3 @@ To run the app, the user needs to install the relevant dependency ("npm install 
 
  ![](./output/output-example-screenshot.png)
 
-### GIF showing functionality of the app
-![Functionality of app] <iframe src="https://drive.google.com/file/d/1prq-lQiK3QmSGo4MausUZcl6z3VzdwfS/preview" width="640" height="480"></iframe>
- 
